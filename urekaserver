@@ -1,3 +1,5 @@
+server:
+  port: 8870
 eureka:
   client:
     register-with-ureka: false
